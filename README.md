@@ -1,4 +1,4 @@
-# Legal templates <img src="libscie-logomark-256.png" align="right" height="64" />
+# Legal templates <img src="https://raw.githubusercontent.com/libscie/design/main/libscie-logomark-1024-square.png" align="right" height="64" />
 
 This repository helps Liberate Science openly track boilerplate legal work. All of these templates are free to reuse under a [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode). This is the upstream repository for all Liberate Science project's legal language; project specific language may be different.
 
