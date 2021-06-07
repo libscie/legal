@@ -2,19 +2,19 @@
 
 Liberate Science GmbH
 
-Wartenbergstraße 22
+Ebertystraße 44
 
-10365 Berlin
+10249 Berlin
 
 Germany
-
-+49 162 68 18 225
-
-info@libscie.org
 
 # Executive Director
 
 Chris Hartgerink
+
++49 162 68 18 225
+
+info@libscie.org
 
 # Registration
 
