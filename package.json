@@ -4,7 +4,8 @@
   "description": "Legal documents for reuse in libscie products.",
   "main": "index.js",
   "scripts": {
-    "test": "prettier-standard"
+    "test": "prettier-standard",
+    "release": "np"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/libscie/legal#readme",
   "devDependencies": {
+    "np": "^7.5.0",
     "prettier-standard": "^16.4.1"
   }
 }
