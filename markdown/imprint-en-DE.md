@@ -1,20 +1,18 @@
-# Who runs this website 🏃‍♀🏃
+# Who runs this website?
 
 Liberate Science GmbH
 
 Ebertystraße 44
 
-10249 Berlin
+10249 Berlin (Germany)
 
-Germany
-
-# Executive Director
+# Director
 
 Chris Hartgerink
 
-+49 162 68 18 225
+[+49 162 68 18 225](tel:+491626818225)
 
-info@libscie.org
+[info@libscie.org](mailto:info@libscie.org)
 
 # Registration
 
