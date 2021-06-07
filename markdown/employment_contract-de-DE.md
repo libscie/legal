@@ -27,7 +27,7 @@ mit einer Frist von zwei Wochen gekündigt werden.
 
 # &sect;2 Aufgabenbereich
 
-Der Angestellte wird als führender Software Entwickler eingestellt. In dieser Position ist er zuständig für die Produktentwicklung sowie für die Umsetzung der wesentlichen Projekte von Liberate Science. Die Gestaltung des Software Designs und der Projekte kann er dabei frei ausüben. Soweit es dem Angestellten möglich ist, versucht er andere Teammitglieder in den Projektablauf mit einzubinden.
+PLACEHOLDER
 
 # &sect;3 Arbeitszeiten
 
