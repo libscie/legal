@@ -1,0 +1,25 @@
+{
+  "name": "@libscie/legal",
+  "version": "0.1.0",
+  "description": "Legal documents for reuse in libscie products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier-standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libscie/legal.git"
+  },
+  "keywords": [
+    "legal"
+  ],
+  "author": "Liberate Science GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/libscie/legal/issues"
+  },
+  "homepage": "https://github.com/libscie/legal#readme",
+  "devDependencies": {
+    "prettier-standard": "^16.4.1"
+  }
+}
