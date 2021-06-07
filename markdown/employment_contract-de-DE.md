@@ -1,8 +1,8 @@
 Zwischen
 
 **Liberate Science GmbH**
-**Rudi-Dutschke-Straße 23**
-**10969 Berlin, Germany**
+**Ebertytraße 44**
+**10249 Berlin, Germany**
 
 im Folgenden „Arbeitgeberin“, und
 
